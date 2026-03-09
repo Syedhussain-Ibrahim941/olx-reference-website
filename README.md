@@ -1,2 +1,15 @@
-# olx-reference-website
-React-based OLX reference application created for the React/MERN Stack Developer recruitment task.
+# OLX Reference Website
+
+This project is developed as a task for Hitasoft Technologies Solutions Pvt Ltd during Job Fair 2026 at Solaimalai College of Engineering.
+
+## Technologies Used
+- React
+- CSS
+- JavaScript
+
+## Run the project
+
+```bash
+npm install
+npm start
+```
